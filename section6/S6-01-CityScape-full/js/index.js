@@ -48,7 +48,7 @@ function setupThreeJS() {
 function setupWorld() {
   //Create the geometry for the floor
   var geo = new THREE.PlaneGeometry(2000, 2000, 40, 40);
-  var mat = new THREE.MeshPhongMaterial({color: 0x9db3b5, overdraw: true});
+  var mat = new THREE.MeshNormalMaterial({color: 0x9db3b5});
   floor = new THREE.Mesh(geo, mat);
   floor.rotation.x = -0.5 * Math.PI;
   floor.receiveShadow = true;
@@ -57,7 +57,8 @@ function setupWorld() {
   //Settings for models and material
   var geometry = new THREE.CubeGeometry( 1, 1, 1 );
   //geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0.5, 0 ) );
-  var material = new THREE.MeshPhongMaterial({overdraw: true, color: 0xcccccc});
+  var material = new THREE.MeshPhongMaterial({ wireframe:true,
+    color: "#00e4ff" });
 
   //Geometry to store all buildings of the city
   var cityGeometry = new THREE.Geometry();
