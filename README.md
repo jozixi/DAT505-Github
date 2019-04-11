@@ -4,7 +4,7 @@ This is **Zixi Zhou**'s project.
 ## In section1
 There are two folders in it. One of them is the `examples` and the another one is the file `practices and homework` including two projects which were completed in the class and my own homework after class.
 * **01-testX**—— is to change the geometry's shape into a circular cone.
-![screenshot](screenshots/s1-01testX.jpg)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-01testX.JPG)
 
 * **02-test** —— is to make two cubes which being tied together,like two clock hands.
 ![screenshot](screenshots/s1-02test.jpg)
