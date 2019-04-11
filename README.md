@@ -38,22 +38,22 @@ There are two folders in it. One of them is the `examples` and the another one i
 
 ## In section5
 * **S5-ArrayMesh-Exercise** —— In this project, the cubes on the specified positions can change into random colors while the others are grey and the scale of the cube is keeping changing in a range. In general it looks like a wave.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s5-arraymesh exercise.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s5-arraymesh-exercise.JPG)
 
 ## In section6
 * **S6-01-CityScape-full-exercise** —— I changed the building into a  wireframe looking and the color is influenced by the environment.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s6-city exercise.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s6-city-exercise.JPG)
 
 ## In section7
 * **S7-01-Texture-Cube** —— In this project,the cubes can fall down from the top of the window in random shapes and textures.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s7-01texture cube.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s7-01texture-cube.JPG)
 
 * **S7-03-Texture-Eyes-Interaction** —— In this project, it will create random number eyes in random positions and they can rotate towards the same direction.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s7-eyes interaction.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s7-eyes-interaction.JPG)
 
 ## In section8
 * **S8-00-Texture-Eyes-Interaction2X** —— is the project that five eyes can turn towards to the mouse's direction at the same time.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s8-eyes interaction2.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s8-eyes-interaction2.JPG)
 
 * **S8-01-RaycastSprite** —— is the project that the box can change to the random colors when you move the mouse on shapes.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/S8-01-RaycastSprite.JPG)
