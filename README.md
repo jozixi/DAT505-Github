@@ -10,7 +10,7 @@ There are two folders in it. One of them is the `examples` and the another one i
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-02test.JPG)
 
 * **S1-homework-creative project** —— I used two basic polyhedrons and changed their colors,sizes and rotation speeds.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-creative project.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-creativeProject.JPG)
 
 ## In section2
 * **S2-01_Exercise-GeometriesAndMaterials** —— is to create different materials for the cubes.
@@ -27,7 +27,7 @@ There are two folders in it. One of them is the `examples` and the another one i
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-test.JPG)
 
 * **S3-homework-geometric design** —— I used the squares and circles to make a two dimensional geometrical design. The kinds of geometries are simple,but the pattern is complex.
-![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-geometric design.JPG)
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-geometricDesign.JPG)
 
 ## In section4
 * **S4-ArrayMesh** —— It is to change the cubes color in different areas.
