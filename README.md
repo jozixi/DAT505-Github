@@ -64,3 +64,6 @@ There are two folders in it. One of them is the [`examples`](https://github.com/
 ## In section9
 * [**S9-01-RaycastAudio**](https://github.com/jozixi/DAT505-Github/tree/master/section9/S9-01-RaycastAudio) —— The model in this project is the same as that of S8-02, but it has an Audio(the sound of the drones).
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s9-audio.JPG)
+
+* [**S9-02-PostProcessing-Glitch**](https://github.com/jozixi/DAT505-Github/tree/master/section9/S9-02-PostProcessing-Glitch) —— This project is to change the shader.
+![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/S9-02.JPG)
