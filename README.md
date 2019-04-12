@@ -2,7 +2,7 @@
 This is **Zixi Zhou**'s project.
 
 ## In section1
-There are two folders in it. One of them is the `examples` and the another one is the file [`practices and homework`](https://github.com/jozixi/DAT505-Github/tree/master/section1/practices%20and%20homework) including two projects which were completed in the class and my own homework after class.
+There are two folders in it. One of them is the [`examples`](https://github.com/jozixi/DAT505-Github/tree/master/section1/examples) and the another one is the file [`practices and homework`](https://github.com/jozixi/DAT505-Github/tree/master/section1/practices%20and%20homework) including two projects which were completed in the class and my own homework after class.
 * [**01-testX**](https://github.com/jozixi/DAT505-Github/tree/master/section1/practices%20and%20homework/01-testX) —— is to change the geometry's shape into a circular cone.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-01testX.JPG)
 
@@ -13,7 +13,7 @@ There are two folders in it. One of them is the `examples` and the another one i
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s1-creativeProject.JPG)
 
 ## In section2
-* [**S2-01_Exercise-GeometriesAndMaterials**](https://github.com/jozixi/DAT505-Github/tree/master/section2/S2-01_Exercise-GeometriesAndMaterials) —— is to create different materials for the cubes.
+* [**S2-01_Exercise-GeometriesAndMaterials**](https://github.com/jozixi/DAT505-Github/tree/master/section2/S2-01_Exercise-GeometriesAndMaterials) —— is to create different materials or textures for the cubes.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s2-01.JPG)
 
 * [**S2-homework-composition**](https://github.com/jozixi/DAT505-Github/tree/master/section2/S2-homework-composition) —— I have designed a composition with three different geometrical objects(cube,torus and pie) and used different textures.
@@ -23,14 +23,14 @@ There are two folders in it. One of them is the `examples` and the another one i
 * [**01-exercise_BasicGUI**](https://github.com/jozixi/DAT505-Github/tree/master/section3/01-exercise_BasicGUI) —— This project is to set up the GUI controller to change the cube's scale,position,rotation,color and boxOpacity.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-01.JPG)
 
-* [**01-exercise-test**](https://github.com/jozixi/DAT505-Github/tree/master/section3/01-exercise-test) —— This is an exercise is to set up the GUI controller to change the cube's scale,position and rotation with more details.
+* [**01-exercise-test**](https://github.com/jozixi/DAT505-Github/tree/master/section3/01-exercise-test) —— This exercise is to set up the GUI controller to change the cube's scale,position and rotation with more details.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-test.JPG)
 
-* [**S3-homework-geometric design**](https://github.com/jozixi/DAT505-Github/tree/master/section3/s3-homework-geometric%20design) —— I used the squares and circles to make a two dimensional geometrical design. The kinds of geometries are simple,but the pattern is complex.
+* [**S3-homework-geometric design**](https://github.com/jozixi/DAT505-Github/tree/master/section3/s3-homework-geometric%20design) —— I used the squares and circles to make a two dimensional geometrical design. The kinds of geometries are simple,but the  component pattern is complex.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s3-geometricDesign.JPG)
 
 ## In section4
-* [**S4-ArrayMesh**](https://github.com/jozixi/DAT505-Github/tree/master/section4/S4-ArrayMesh) —— It is to change the cubes color in different areas.
+* [**S4-ArrayMesh**](https://github.com/jozixi/DAT505-Github/tree/master/section4/S4-ArrayMesh) —— It is to change the cubes' color in different areas.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s4-arraymesh.JPG)
 
 * [**S4-homework-cubes with different speeds and rotations**](https://github.com/jozixi/DAT505-Github/tree/master/section4/s4-homework-cubes%20with%20different%20speeds%20and%20rotations) —— This work is to create continuous rotations for each cube independently(different rotation and speed).
@@ -41,7 +41,7 @@ There are two folders in it. One of them is the `examples` and the another one i
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s5-arraymesh-exercise.JPG)
 
 ## In section6
-* [**S6-01-CityScape-full-exercise**](https://github.com/jozixi/DAT505-Github/tree/master/section6/S6-01-CityScape-full-exercise) —— I changed the building into a  wireframe looking and the color is influenced by the environment.
+* [**S6-01-CityScape-full-exercise**](https://github.com/jozixi/DAT505-Github/tree/master/section6/S6-01-CityScape-full-exercise) —— I changed the buildings into a wireframe looking and the color is influenced by the environment.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s6-city-exercise.JPG)
 
 ## In section7
@@ -52,13 +52,13 @@ There are two folders in it. One of them is the `examples` and the another one i
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s7-eyes-interaction.JPG)
 
 ## In section8
-* [**S8-00-Texture-Eyes-Interaction2X**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-00-Texture-Eyes-Interaction2X) —— is the project that five eyes can turn towards to the mouse's direction at the same time.
+* [**S8-00-Texture-Eyes-Interaction2X**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-00-Texture-Eyes-Interaction2X) —— This is the project that five eyes can turn towards to the mouse's direction at the same time.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/s8-eyes-interaction2.JPG)
 
-* [**S8-01-RaycastSprite**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-01-RaycastSprite) —— is the project that the box can change to the random colors when you move the mouse on shapes.
+* [**S8-01-RaycastSprite**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-01-RaycastSprite) —— This is the project that the box can change to the random colors when you move the mouse on shapes.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/S8-01-RaycastSprite.JPG)
 
-* [**S8-02-objLoader-Raycasting**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-02-objLoader-Raycasting) —— is the project that imported my own model(drones) and they can change the colors when clicking it.
+* [**S8-02-objLoader-Raycasting**](https://github.com/jozixi/DAT505-Github/tree/master/section8/S8-02-objLoader-Raycasting) —— This is the project that imported my own model(drones) and they can change the colors when clicking it.
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/screenshots/S8-02-objLoader.JPG)
 
 ## In section9
