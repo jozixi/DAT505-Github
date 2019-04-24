@@ -14,7 +14,7 @@ Code's comments are in the file`play.js`
 
 Please open file`indexModel.html` to play this project.
 
-(If the project is keep loading, please change a browser.Thank you!)
+(If the project is keeping loading, please change a browser.Thank you!)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/loading.JPG)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/main2.JPG)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/main3.JPG)
