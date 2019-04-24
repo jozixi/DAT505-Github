@@ -57,7 +57,7 @@
 		container.appendChild(labelRenderer.domElement);
 		//camera
 		camera = new THREE.PerspectiveCamera(30, window.innerWidth / window.innerHeight, 1, 10000);
-		camera.position.set(-55, 1244, -2000);
+		camera.position.set(-55, 1244, -3150);
 		//controls
 		controls = new THREE.OrbitControls(camera, container);
 		controls.autoRotate = true;

@@ -12,8 +12,9 @@ My originality was came up with my daily life. One day I went to the zoo with my
 My project has 6 folders. File `Audio` contains the background music. `css` contains a css file. File `gltf` contains the 3d models. File `img` contains the models' textures. File `js` contains codes files.`play.js` is the most important one. File `screenshots` contains 4 different images of my final screen composition.
 Code's comments are in the file`play.js`
 
+Please open file`indexModel.html` to play this project.
 
-(If the project is keep loading, please change a browser.Thank you)
+(If the project is keep loading, please change a browser.Thank you!)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/loading.JPG)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/main2.JPG)
 ![screenshot](https://github.com/jozixi/DAT505-Github/blob/master/FinalProject/OnlineZoo/screenshots/main3.JPG)
